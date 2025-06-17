@@ -1,4 +1,4 @@
-import { FaLinkedin, FaGithub, FaDownload } from 'react-icons/fa';
+import { FaLinkedin, FaGithub } from 'react-icons/fa';
 import { SiMongodb, SiExpress, SiReact, SiNodedotjs } from 'react-icons/si';
 
 const Header = () => (
@@ -72,14 +72,7 @@ const Header = () => (
           <FaGithub className="me-2" /> GitHub
         </a>
 
-       {/* <a
-          href="/Shobiya Resume(4).dozx"
-          className="btn btn-sm btn-primary d-flex align-items-center"
-          download
-        >
-          
-          <FaDownload className="me-2" /> Download Resume
-        </a>*/}
+       
       </div>
     </div>
   </div>
