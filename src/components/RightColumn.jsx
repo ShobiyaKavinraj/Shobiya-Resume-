@@ -40,7 +40,7 @@ const RightColumn = () => (
       </div>
 
       <div className="mb-3">
-        <h6 className="fw-bold">Portfolio Website</h6>
+        <h6 className="fw-bold">Kavinraj Portfolio Website</h6>
         <ul className="list-unstyled ps-3">
           <li>💼 React.js portfolio with routing</li>
           <li>🖼️ Pages for About, Projects, Resume, Contact</li>
@@ -49,11 +49,11 @@ const RightColumn = () => (
       </div>
 
       <div className="mb-3">
-        <h6 className="fw-bold">Resume Builder App</h6>
+        <h6 className="fw-bold">My Resume</h6>
         <ul className="list-unstyled ps-3">
           <li>🧾 Single-page React resume using Bootstrap</li>
           <li>🧱 Structured layout with Left/Right columns</li>
-          <li>📄 Downloadable and clean print layout</li>
+          <li>📄 Clean print layout and Deployed on GitHub Pages / Netlify</li>
         </ul>
       </div>
     </section>
