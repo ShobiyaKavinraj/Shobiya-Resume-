@@ -40,7 +40,7 @@ const LeftColumn = () => (
     <section className="mb-5">
       <h5 className="text-uppercase fw-bold border-bottom pb-2">Technical Skills</h5>
       <ul className="list-unstyled mt-3">
-        {['React.js', 'Node.js', 'MongoDB', 'Express.js', 'JavaScript', 'HTML5/CSS3', 'REST APIs', 'Git & GitHub'].map((skill, idx) => (
+        {['React.js', 'Node.js', 'MongoDB', 'Express.js', 'JavaScript', 'HTML5/CSS3', 'REST APIs','Redux-Basics','Git & GitHub'].map((skill, idx) => (
           <li key={idx} className="mb-2 ps-3 position-relative">
             <i className="bi bi-dot text-primary position-absolute start-0 top-0"></i>
             {skill}
